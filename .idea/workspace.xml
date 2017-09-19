@@ -47,12 +47,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="冒泡排序.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="冒泡排序.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/_posts/冒泡排序.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state>
-              <first_editor vertical-scroll-proportion="0.106930695">
-                <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+              <first_editor vertical-scroll-proportion="0.16039604">
+                <caret line="3" column="3" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="3" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="获取url地址栏中的参数.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/source/_posts/获取url地址栏中的参数.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state>
+              <first_editor vertical-scroll-proportion="0.25148514">
+                <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -80,6 +93,7 @@
         <option value="$PROJECT_DIR$/source/_posts/git的回滚.md" />
         <option value="$PROJECT_DIR$/source/_posts/git 分支知识.md" />
         <option value="$PROJECT_DIR$/source/_posts/冒泡排序.md" />
+        <option value="$PROJECT_DIR$/source/_posts/获取url地址栏中的参数.md" />
       </list>
     </option>
   </component>
@@ -91,8 +105,8 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="365" />
-    <option name="y" value="31" />
+    <option name="x" value="525" />
+    <option name="y" value="27" />
     <option name="width" value="898" />
     <option name="height" value="665" />
   </component>
@@ -216,7 +230,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="365" y="31" width="898" height="665" extended-state="0" />
+    <frame x="525" y="27" width="898" height="665" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -380,8 +394,19 @@
     <entry file="file://$PROJECT_DIR$/source/_posts/冒泡排序.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state>
-          <first_editor vertical-scroll-proportion="0.106930695">
-            <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+          <first_editor vertical-scroll-proportion="0.16039604">
+            <caret line="3" column="3" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="3" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/获取url地址栏中的参数.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state>
+          <first_editor vertical-scroll-proportion="0.25148514">
+            <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
             <folding />
           </first_editor>
           <second_editor />

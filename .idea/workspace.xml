@@ -21,12 +21,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="js中的Date和Math.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/source/_posts/js中的Date和Math.md">
+      <file leaf-file-name="js三大系列.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/source/_posts/js三大系列.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state>
-              <first_editor vertical-scroll-proportion="0.59090906">
-                <caret line="84" column="34" selection-start-line="84" selection-start-column="34" selection-end-line="84" selection-end-column="34" />
+              <first_editor vertical-scroll-proportion="1.7272727">
+                <caret line="162" column="0" selection-start-line="162" selection-start-column="0" selection-end-line="162" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -61,6 +61,8 @@
         <option value="$PROJECT_DIR$/source/_posts/数组去重.md" />
         <option value="$PROJECT_DIR$/source/_posts/清除字符串前后的空格.md" />
         <option value="$PROJECT_DIR$/source/_posts/js中的Date和Math.md" />
+        <option value="$PROJECT_DIR$/public/css/style.css" />
+        <option value="$PROJECT_DIR$/source/_posts/js三大系列.md" />
       </list>
     </option>
   </component>
@@ -72,9 +74,9 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
+    <option name="x" value="515" />
+    <option name="y" value="8" />
+    <option name="width" value="870" />
     <option name="height" value="754" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -137,13 +139,111 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="2017" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="09" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="22" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="2017" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="09" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="2017" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/wamp/www" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
@@ -204,10 +304,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
+    <frame x="515" y="8" width="870" height="754" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19494048" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31490386" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -507,16 +607,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/清除字符串前后的空格.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state>
-          <first_editor vertical-scroll-proportion="-0.8636364">
-            <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/_posts/git 分支知识.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state>
@@ -527,11 +617,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7020202">
+          <caret line="1147" column="0" selection-start-line="1147" selection-start-column="0" selection-end-line="1147" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/清除字符串前后的空格.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state>
+          <first_editor vertical-scroll-proportion="-0.6818182">
+            <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/source/_posts/js中的Date和Math.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state>
-          <first_editor vertical-scroll-proportion="0.59090906">
-            <caret line="84" column="34" selection-start-line="84" selection-start-column="34" selection-end-line="84" selection-end-column="34" />
+          <first_editor vertical-scroll-proportion="0.36363637">
+            <caret line="39" column="30" selection-start-line="0" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/js三大系列.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state>
+          <first_editor vertical-scroll-proportion="1.7272727">
+            <caret line="162" column="0" selection-start-line="162" selection-start-column="0" selection-end-line="162" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
